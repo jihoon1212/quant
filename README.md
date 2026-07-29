@@ -5,8 +5,6 @@
         - quant 폴더에 buyandhold.py
     - bollinger 함수
     - momentum 함수
- 
-  # Python 퀀트 전략 학습 실습
 
 금융 데이터 분석 교육과정에서 강사의 예제 코드를 따라 작성하며
 Python 모듈화와 기본적인 퀀트 전략 구현 방식을 학습한 저장소입니다.
